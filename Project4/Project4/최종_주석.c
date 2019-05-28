@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-
+////////////////////////추가된 메세지입니다.
 #define MAX_PROCESS   512
 #define MAX_QUEUE   256
 #define SORT_SER_TIME      0x00000001
